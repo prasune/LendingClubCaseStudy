@@ -1,5 +1,5 @@
 # Lending Club - Loan Data Analysis
-> Lending Club - Loan Data Analysis is aimed to enhance revenue of Lending Club by reducing loan to risky applicants while making sure that non-risky applicants are not missed out.
+Lending Club - Loan Data Analysis is aimed to enhance revenue of Lending Club by reducing loan to risky applicants while making sure that non-risky applicants are not missed out.
 
 
 ## Table of Contents
