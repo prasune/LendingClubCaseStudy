@@ -4,9 +4,8 @@ Lending Club - Loan Data Analysis is aimed to enhance revenue of Lending Club by
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Technologies Used](#technologies-used)
 
 
 ## General Information
@@ -28,32 +27,38 @@ Enhance revenue by reducing loan to risky applicants while making sure that non-
 ### Dataset used
 * Data of past loan applicants can be used for Data Analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Conclusion from the analysis of loan status
+Around 14.4% of the customers have defaulted
+- Conclusion from the analysis of interest rates and loan status
+There is a high ratio of defaulters among those who took loan at high interest rates.
+Recommendation - There should be more investigation on repaying capability of applicants who is ready to take loan at a higher interest rate.
+- Conclusion from the analysis of loan tenure and loan status
+High percentage of defaulters were seen for the loans taken for longer tenure
+Recommendation - More strict verification of the repaymentg capability of applicants who is opting for longer tenure.
+- Conclusion from the analysis of loan amount range and loan status
+Ratio of defaulters are increasing with higher loan amount range
+Recommendation - Investigate repayment capacity while providing higher loan amount
+- Conclusion from the analysis of loan purpose and loan status
+loans taken for small business, debt consolidation and other purpose are showing high percentage of defaulters.
+Recommendations - Verification of repayment capacity should be done while providing loans for small business.
+Verification of credit history must be done while providing loan for Debt consolidation.
+Loans marked for other purpose needs more transparency on purpose
+- Conclusion from the analysis of loan verification status
+Recommendation - Revisit verification strategy - very high number of loan applicants are provided loan without any verification
+- Conclusion from the analysis of loan verification status and loan status
+Verification has not made much difference in preventing defaulters.
+Recommendation - Revisit the verification process and address the gaps as it is failing to prevent defaulters.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Python - Anaconda version
+- numpy
+- pandas
+- matlibplot
+- seaborn
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@prasune] - feel free to contact me!
 
 
