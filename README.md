@@ -10,7 +10,7 @@ Lending Club - Loan Data Analysis is aimed to enhance revenue of Lending Club by
 
 
 ## General Information
-- Background
+### Background
 Lending Club is the largest online loan marketplace. AtLending Club, Borrowers can easily access lower interest rate loans through a fast online interface.
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
@@ -19,13 +19,13 @@ When the company receives a loan application, the company has to make a decision
 
 We need to reduce loan to risky applicants to avoid financial loss to the company.
 
-- Problem Statement
+### Problem Statement
 Enhance revenue by reducing loan to risky applicants while making sure that non-risky applicants are not missed out.
 * Identify Risky loan applicants using Exploratory Data Analysis
 * Identify driving factors behind loan default
 * Identify patterns which indicates that a person is likely to default
 
-- Dataset used
+### Dataset used
 * Data of past loan applicants can be used for Data Analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
