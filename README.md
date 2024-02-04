@@ -25,7 +25,7 @@ Enhance revenue by reducing loan to risky applicants while making sure that non-
 * Identify patterns which indicates that a person is likely to default
 
 ### Dataset used
-* Data of past loan applicants can be used for Data Analysis
+* Data of past loan applicants is used for this Data Analysis (loan.csv)
 
 ## Conclusions
 #### Conclusion from the analysis of loan status
